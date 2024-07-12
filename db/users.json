@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Hou",
+    "email": "hou@mail.com",
+    "password": "$2b$10$zQYaMo/VXqVN1.Z3ilKLJeS2oFZT7POrRsbJ9fhIzRYVyQzLHQ6Gq",
+    "pwd": "securepass"
+  }
+]
